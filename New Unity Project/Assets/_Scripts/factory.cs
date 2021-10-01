@@ -8,7 +8,7 @@ public class factory : MonoBehaviour
 
     public GameObject Target;
 
-    public float MakeRate = 2.0f;
+    public float MakeRate = 1.0f;
 
     private float _lastMake = 0;
 
